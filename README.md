@@ -11,6 +11,20 @@ Forked and reproduced from an existing emotion recognition implementation to exp
 
 Original implementation credit belongs to the original author.
 
+## ⚠️ Current Issue
+
+Currently investigating an issue where the red bounding box does not consistently appear when detecting faces through the webcam feed.
+
+Not sure yet whether the problem comes from:
+
+- face detection logic
+- OpenCV rendering
+- model inference timing
+- webcam frame processing
+
+Will continue debugging.
+
+
 # Table of Content :
 1.[Description](#p1)
 
