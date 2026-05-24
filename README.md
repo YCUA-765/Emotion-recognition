@@ -1,3 +1,17 @@
+# 🧠 Emotion Recognition
+
+### First Affective Computing Reproduction Project
+
+Currently learning:
+
+- emotion recognition
+- computer vision
+- OpenCV
+- FER2013
+- real-time inference
+
+Forked for educational purposes and future experimentation.
+
 # Project Name : Emotion-recognition
 # Table of Content :
 1.[Description](#p1)
