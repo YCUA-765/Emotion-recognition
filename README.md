@@ -12,7 +12,6 @@ Currently learning:
 
 Forked for educational purposes and future experimentation.
 
-# Project Name : Emotion-recognition
 # Table of Content :
 1.[Description](#p1)
 
