@@ -2,15 +2,14 @@
 
 ### First Affective Computing Reproduction Project
 
-Currently learning:
+Forked and reproduced from an existing emotion recognition implementation to explore:
 
-- emotion recognition
-- computer vision
+- facial emotion recognition
 - OpenCV
-- FER2013
-- real-time inference
+- FER2013 dataset
+- real-time inference systems
 
-Forked for educational purposes and future experimentation.
+Original implementation credit belongs to the original author.
 
 # Table of Content :
 1.[Description](#p1)
